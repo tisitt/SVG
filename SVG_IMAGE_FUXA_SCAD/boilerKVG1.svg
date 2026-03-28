@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<svg width="247.99999999999997" height="150" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer" display="inline">
+  <title>Layer 1</title>
+  <style type="text/css">
+   <![CDATA[
+
+	.flameColor,.inlineColor,.boundaryColor{
+		stroke-linecap:butt;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+		stroke-width:1px;
+	}
+
+	.caseColor {
+		fill:#4C5B75;
+	}
+	
+	.flameColor {
+		stroke:#CE0000;
+	}
+	
+	.inlineColor {
+		stroke:white;
+		opacity:0.75;
+	}
+	
+	.boundaryColor {
+		stroke:black;
+		stroke-width:1.5px;
+		opacity:0.75;
+	}
+	
+	.coldColor {
+		stop-color:#29B1FF;
+		fill:#29B1FF;
+	}
+
+	.hotColor {
+		stop-color:#FF0000;
+	}
+	
+	.smokeColor {
+		fill:#7D7D7D
+	}
+
+      ]]>
+  </style>
+  <defs transform="translate(-149.71 -81.11) translate(793.24 -77.32)">
+   <path d="m222.15,193.43c8.86,0 16.03,7.19 16.03,16.05l0,28.86c-4.27,0 -8.54,0 -12.82,0l0,-32.07l-146.74,0l-12.81,51.32l-28.58,0l-29.82,-19.9l0,-40.52l50.39,-151.27l122.69,0l0,-32.07c4.27,0 8.54,0 12.81,0l0,32.07l32.06,0l0,-44.9c6.41,0 12.83,0 19.23,0l0,147.53c0,10.63 -8.61,19.25 -19.23,19.25l-32.06,0l0,25.65l28.85,0z" id="svg_28"/>
+   <path d="m238.18,209.48l0,28.86c-4.27,0 -8.54,0 -12.82,0l0,-32.07l-131.41,0l0,-12.84l12.82,0l0,-128.28l-12.82,0l0,-19.25l86.54,0l0,-32.07c4.27,0 8.54,0 12.82,0l0,32.07l0,19.24l-16.03,0l0,128.29l16.03,0l28.84,0c8.86,0 16.03,7.19 16.03,16.05zm-67.3,-16.05l0,-128.28l-6.42,0l0,128.28l6.42,0zm-12.83,0l0,-128.28l-6.41,0l0,128.28l6.41,0zm-12.82,0l0,-128.28l-6.41,0l0,128.28l6.41,0zm-12.82,0l0,-128.28l-6.41,0l0,128.28l6.41,0zm-12.82,0l0,-128.28l-6.41,0l0,128.28l6.41,0z" id="svg_26"/>
+   <linearGradient id="svg_3" x1="0" x2="1" y1="0" y2="0">
+    <stop id="jq_stop_346" offset="0" stop-color="#333333" stop-opacity="1"/>
+    <stop id="jq_stop_1757" offset="1" stop-color="#ffff00" stop-opacity="1"/>
+   </linearGradient>
+   <linearGradient fx="0.41" fy="0" id="svg_11">
+    <stop id="jq_stop_4226" offset="0" stop-color="#666666"/>
+    <stop id="jq_stop_8718" offset="1" stop-color="#999999"/>
+   </linearGradient>
+  </defs>
+  <rect fill="#333333" height="144.78" id="svg_1" stroke="url(#svg_11)" stroke-width="5" transform="matrix(1 0 0 1 -261.94 47.0149)" width="242.54" x="264.44" y="-44.51"/>
+  <rect fill="#000000" fill-opacity="0" height="52.24" id="svg_4" stroke="url(#svg_3)" stroke-width="0" transform="matrix(1 0 0 1 23.1343 -64.9254)" width="14.18" x="110.71" y="83.85"/>
+ </g>
+</svg>

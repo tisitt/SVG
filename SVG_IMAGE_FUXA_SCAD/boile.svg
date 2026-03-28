@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<svg width="251" height="151" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve">
+ <style type="text/css">
+  <![CDATA[
+
+	.stroke,.thin,.thick{
+		stroke-linecap:butt;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+		opacity:0.5;
+	}
+
+	.stroke{stroke-width:0.5;}
+
+	.thin {stroke-width:0.25;}
+
+	.thick {stroke-width:0.75;}
+	
+	.color {
+		fill:#3664BF;
+		opacity:0.2;
+	}
+
+      ]]>
+ </style>
+ <defs>
+  <radialGradient cx="0.5" cy="0.5" fx="-0.03" fy="-1.03" id="radial" r="0.5">
+   <stop offset="0" stop-color="#F6FAFC"/>
+   <stop offset="0.61" stop-color="#8A888B"/>
+   <stop offset="0.77" stop-color="#F6FAFC"/>
+   <stop offset="0.8" stop-color="#F0F3F5"/>
+   <stop offset="0.84" stop-color="#E0E2E7"/>
+   <stop offset="0.87" stop-color="#C9CBD4"/>
+   <stop offset="0.91" stop-color="#ADB0BD"/>
+   <stop offset="0.94" stop-color="#8C90A3"/>
+   <stop offset="0.98" stop-color="#697188"/>
+   <stop offset="1" stop-color="#4D5C75"/>
+  </radialGradient>
+  <linearGradient gradientUnits="userSpaceOnUse" id="cyl">
+   <stop offset="0.01" stop-color="#4D5C75"/>
+   <stop offset="0.05" stop-color="#697188"/>
+   <stop offset="0.11" stop-color="#8C90A3"/>
+   <stop offset="0.18" stop-color="#ADB0BD"/>
+   <stop offset="0.24" stop-color="#C9CBD4"/>
+   <stop offset="0.3" stop-color="#E0E2E7"/>
+   <stop offset="0.36" stop-color="#F0F3F5"/>
+   <stop offset="0.42" stop-color="#F6FAFC"/>
+   <stop offset="0.47" stop-color="#F1F3F4"/>
+   <stop offset="0.53" stop-color="#E3E4E5"/>
+   <stop offset="0.59" stop-color="#CECDCF"/>
+   <stop offset="0.64" stop-color="#B3B1B4"/>
+   <stop offset="0.7" stop-color="#959296"/>
+   <stop offset="0.72" stop-color="#8A888B"/>
+   <stop offset="1" stop-color="#F6FAFC"/>
+  </linearGradient>
+  <linearGradient href="#cyl" id="cyl_2" x1="221" x2="236" y1="12.15" y2="12.15"/>
+  <linearGradient href="#cyl" id="cyl_3" x1="216" x2="241" y1="3.5" y2="3.5"/>
+  <linearGradient href="#cyl" id="cyl_4" x1="86" x2="111" y1="128.5" y2="128.5"/>
+  <linearGradient href="#cyl" id="cyl_5" x1="91" x2="106" y1="119.85" y2="119.85"/>
+  <linearGradient href="#cyl" id="cyl_10" x1="151" x2="151" y1="15.58" y2="116.63"/>
+  <linearGradient id="flat" x1="1.2" x2="-0.28" y1="1.16" y2="-0.04">
+   <stop offset="0.01" stop-color="#4D5C75"/>
+   <stop offset="0.15" stop-color="#5C6780"/>
+   <stop offset="0.43" stop-color="#828B9E"/>
+   <stop offset="0.56" stop-color="#99A3B2"/>
+   <stop offset="0.56" stop-color="#AEB7C4"/>
+   <stop offset="1" stop-color="#F6FAFC"/>
+  </linearGradient>
+  <linearGradient href="#flat" id="flat_2" x1="41.64" x2="243.62" y1="113.25" y2="173.74"/>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="url(#cyl_10)" height="100.01" id="svg_1" width="200" x="50" y="14.99"/>
+  <polygon fill="url(#flat)" id="support" points="79.37100219726562,140.00599670410156 60.625,140.00599670410156 65,105.00399780273438 75.00499725341797,105.00399780273438"/>
+  <use href="#support" id="svg_2" transform="translate(-1 -1) translate(160 0)"/>
+  <path fill="url(#radial)" id="svg_3"/>
+  <path d="m235,5c0,3.33 0,6.67 0,9.99c-2.43,1.47 -4.97,2.31 -7.5,2.31c-1.23,0 -2.46,-0.19 -3.67,-0.57c-0.62,-0.18 -1.23,-0.41 -1.84,-0.69c-0.68,-0.29 -1.34,-0.64 -1.99,-1.05c0,-3.32 0,-6.66 0,-9.99l15,0z" fill="url(#cyl_2)" id="svg_5"/>
+  <polygon fill="url(#cyl_3)" id="svg_6" points="239.99600219726562,0 239.99600219726562,4.998000144958496 234.99899291992188,4.998000144958496 219.9980010986328,4.998000144958496 215.00100708007812,4.998000144958496 215.00100708007812,0"/>
+  <polygon fill="url(#cyl_4)" id="svg_7" points="110.00399780273438,125.00299835205078 110.00399780273438,130 84.9990005493164,130 84.9990005493164,125.00299835205078 89.99600219726562,125.00299835205078 104.99700164794922,125.00299835205078"/>
+  <path d="m105,115c0,3.33 0,6.67 0,10l-15,0c0,-3.33 0,-6.67 0,-10c2.43,-1.46 4.96,-2.29 7.5,-2.29c1.23,0 2.46,0.18 3.67,0.55c0.62,0.19 1.23,0.42 1.84,0.7c0.67,0.29 1.33,0.63 1.99,1.04z" fill="url(#cyl_5)" id="svg_8"/>
+  <rect fill="url(#flat_2)" height="9.99" id="svg_9" width="200" x="50" y="140.01"/>
+  <path class="color" d="m250,50l0,-35.01l-15,0c0,-3.32 0,-6.66 0,-9.99l5,0l0,-5l-25,0l0,5l5,0c0,3.33 0,6.67 0,9.99l-159.83,0l-0.17,0l-10,0l0,100.01l13.75,0l-3.13,25.01l-10.62,0l0,9.99l200,0l0,-9.99l-10.61,0l-3.12,-25.01l13.73,0l0,-40l0,-25zm-170.63,90.01l-3.12,-25.01l0.01,0l13.74,0c0,3.33 0,6.67 0,10l-5,0l0,5l25,0l0,-5l-5,0c0,-3.33 0,-6.67 0,-10l118.74,0l-3.09,25l-141.28,0l0,0.01z" id="svg_15"/>
+  <g class="stroke" id="svg_16" transform="translate(0 0) translate(0 0) translate(-1 -1)">
+   <polyline id="svg_18" points="240.375,141.006 237.25,115.999 235.999,106.004 225.995,106.004 224.743,115.999 221.619,141.006    "/>
+   <line id="svg_19" x1="77.26" x2="80.37" y1="116" y2="141.01"/>
+   <polyline id="svg_20" points="61.625,141.006 64.749,115.999 66,106.004 76.005,106.004 77.247,115.999    "/>
+   <polygon id="svg_21" points="61.625,141.006 51,141.006 51,151 251,151 251,141.006 240.375,141.006 221.619,141.006 80.371,141.006    "/>
+   <polyline id="svg_22" points="77.247,115.999 77.257,115.999 90.996,115.999    "/>
+   <polyline id="svg_23" points="61.004,15.992 51,15.992 51,60.998 51,80.997 51,115.999 64.749,115.999    "/>
+   <polyline id="svg_24" points="237.25,115.999 251,115.999 251,76 251,51.003 251,15.992 235.999,15.992    "/>
+   <line id="svg_25" x1="106" x2="224.74" y1="116" y2="116"/>
+   <line id="svg_26" transform="matrix(1.39304 0 0 1 -86.8611 0)" x1="221" x2="106" y1="15.99" y2="15.99"/>
+   <line id="svg_27" x1="236" x2="221" y1="6" y2="6"/>
+   <polyline id="svg_29" points="220.998,5.998 216.001,5.998 216.001,1 240.996,1 240.996,5.998 235.999,5.998    "/>
+   <line id="svg_30" x1="91" x2="106" y1="126" y2="126"/>
+   <polyline id="svg_31" points="105.997,126.003 111.004,126.003 111.004,131 85.999,131 85.999,126.003 90.996,126.003    "/>
+   <path d="m236,6c0,3.33 0,6.67 0,9.99c-2.43,1.47 -4.97,2.31 -7.5,2.31c-1.23,0 -2.46,-0.19 -3.67,-0.57c-0.62,-0.18 -1.23,-0.41 -1.84,-0.69c-0.68,-0.29 -1.34,-0.64 -1.99,-1.05c0,-3.32 0,-6.66 0,-9.99" id="svg_38"/>
+   <path d="m91,126c0,-3.33 0,-6.67 0,-10c2.43,-1.46 4.96,-2.3 7.5,-2.3c1.23,0 2.46,0.19 3.67,0.56c0.62,0.19 1.23,0.42 1.84,0.7c0.67,0.29 1.33,0.63 1.99,1.04c0,3.33 0,6.67 0,10" id="svg_39"/>
+  </g>
+ </g>
+</svg>

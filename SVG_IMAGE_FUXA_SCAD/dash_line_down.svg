@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" width="15" height="100%" preserveAspectRatio="none" >
+<g>
+    <line x1="7.5" y1="-100" x2="7.5" y2="120%" stroke="magenta" stroke-width="5" stroke-dasharray="25 25" stroke-linecap="round" opacity="100%"/>
+    	<animateTransform
+        attributeName="transform"
+        from="0, 0"
+        to="0, 50"
+        dur="1.2s"
+        repeatCount="indefinite"/>
+</g>
+</svg>
