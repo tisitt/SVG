@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="15.176mm" height="24.647mm" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="Chrome Coupler.svg" version="1.1" viewBox="0 0 15.176 24.647" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient8075" x1="341.66" x2="341.66" y1="-479.6" y2="-501.5" gradientTransform="matrix(0 1.0741 1.8755 0 1519.8 -93.286)" gradientUnits="userSpaceOnUse" inkscape:collect="always" xlink:href="#Chrome"/>
+  <linearGradient id="Chrome" inkscape:collect="always">
+   <stop stop-color="#ccc" offset="0"/>
+   <stop stop-color="#333" offset=".10021"/>
+   <stop stop-color="#b3b3b3" offset=".25053"/>
+   <stop stop-color="#fff" offset=".39708"/>
+   <stop stop-color="#fff" offset=".47333"/>
+   <stop stop-color="#f9f9f9" offset=".53286"/>
+   <stop stop-color="#fff" offset=".61806"/>
+   <stop stop-color="#ccc" offset=".75993"/>
+   <stop stop-color="#4d4d4d" offset=".90397"/>
+   <stop stop-color="#ccc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient8077" x1="341.66" x2="341.66" y1="-479.6" y2="-501.5" gradientTransform="matrix(.10972 0 0 2.4353 223.28 1794.3)" gradientUnits="userSpaceOnUse" inkscape:collect="always" xlink:href="#Chrome"/>
+  <linearGradient id="linearGradient8079" x1="341.66" x2="341.66" y1="-479.6" y2="-501.5" gradientTransform="matrix(.10972 0 0 2.4353 294.71 1794.3)" gradientUnits="userSpaceOnUse" inkscape:collect="always" xlink:href="#Chrome"/>
+ </defs>
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0.1" fit-margin-left="0.1" fit-margin-right="0.1" fit-margin-top="0.1" inkscape:current-layer="g1154" inkscape:cx="882.35152" inkscape:cy="-239.42461" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="2644" inkscape:window-maximized="1" inkscape:window-width="4800" inkscape:window-x="1509" inkscape:window-y="-16" inkscape:zoom="1.4" pagecolor="#ffffff" showgrid="false"/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-33.727 -263.93)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+  <g transform="matrix(.28222 0 0 .28222 -128.01 192.49)" inkscape:export-xdpi="101.385" inkscape:export-ydpi="101.385">
+   <path d="m579.53 268.69v56.232h40.868v-56.232z" fill="url(#linearGradient8075)" inkscape:connector-curvature="0" inkscape:export-xdpi="101.38478" inkscape:export-ydpi="101.38478" sodipodi:nodetypes="ccccc"/>
+   <rect transform="matrix(0,1,1,0,0,0)" x="253.49" y="573.43" width="15.195" height="53.065" fill="url(#linearGradient8077)" inkscape:export-xdpi="101.38478" inkscape:export-ydpi="101.38478"/>
+   <rect transform="matrix(0,1,1,0,0,0)" x="324.92" y="573.43" width="15.195" height="53.065" fill="url(#linearGradient8079)" inkscape:export-xdpi="101.38478" inkscape:export-ydpi="101.38478"/>
+  </g>
+ </g>
+</svg>
