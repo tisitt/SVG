@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_01" xmlns:agg="http://www.example.com"
+	 xmlns="http://www.w3.org/2000/svg"  x="0px" y="0px" width="49.065px"
+	 height="58.906px" viewBox="1.388 0 49.065 58.906" enable-background="new 1.388 0 49.065 58.906" xml:space="preserve">
+
+ <agg:params>
+	<agg:param name="color" description="Color" type="C" cssAttributes="fill" classes="color"/>
+	<agg:param type="F" name="saturation" description="Saturation" min="0" max="1" cssAttributes="opacity" classes="color"/>
+</agg:params>
+
+<style type="text/css" >
+   <![CDATA[
+
+	.stroke{
+		stroke-width:0.3;
+		stroke-linecap:round;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+		opacity:0.5;
+	}
+	
+	.color {
+		fill:#3664BF;
+		opacity:0.2;
+	}
+
+      ]]>
+</style>
+
+
+<linearGradient id="segment" gradientUnits="userSpaceOnUse" x1="25.2266" y1="57.5322" x2="25.2266" y2="1.4224">
+	<stop  offset="0" style="stop-color:#4D5C75"/>
+	<stop  offset="0.0313" style="stop-color:#616F85"/>
+	<stop  offset="0.1108" style="stop-color:#8E99A9"/>
+	<stop  offset="0.1908" style="stop-color:#B4BCC7"/>
+	<stop  offset="0.27" style="stop-color:#D1D7DE"/>
+	<stop  offset="0.3485" style="stop-color:#E5EAEF"/>
+	<stop  offset="0.4256" style="stop-color:#F2F6F9"/>
+	<stop  offset="0.5" style="stop-color:#F6FAFC"/>
+	<stop  offset="0.5744" style="stop-color:#F2F6F9"/>
+	<stop  offset="0.6515" style="stop-color:#E5EAEF"/>
+	<stop  offset="0.73" style="stop-color:#D1D7DE"/>
+	<stop  offset="0.8092" style="stop-color:#B4BCC7"/>
+	<stop  offset="0.8892" style="stop-color:#8E99A9"/>
+	<stop  offset="0.9687" style="stop-color:#616F85"/>
+	<stop  offset="1" style="stop-color:#4D5C75"/>
+</linearGradient>
+
+<path fill="url(#segment)" d="M46.729,13.177c-1.031-3.226-2.254-6.144-4.568-8.747c-1.42-1.604-3.314-3.004-5.648-3.008
+	c-0.004,0-0.004,0-0.008,0H36.5H1.388c0,18.702,0,37.408,0,56.11h35.116h0.004c2.328,0,4.225-1.399,5.648-3.001
+	c2.313-2.604,3.537-5.521,4.568-8.742c1.723-5.379,2.34-10.708,2.34-16.312C49.065,23.878,48.448,18.548,46.729,13.177z"/>
+	
+<path opacity="0.5" fill="#FFFFFF" d="M45.243,16.489c1.363,4.281,1.855,8.526,1.855,12.988c0,4.466-0.496,8.714-1.859,12.997
+	c-0.822,2.586-1.801,4.928-3.658,7.012c-1.135,1.264-2.633,2.365-4.479,2.365c-1.793-0.004-3.246-1.04-4.367-2.264
+	c-1.934-2.108-2.92-4.486-3.758-7.126c-1.363-4.278-1.855-8.522-1.855-12.984c0-4.466,0.492-8.715,1.859-13
+	c0.84-2.64,1.83-5.019,3.766-7.126c1.123-1.22,2.578-2.251,4.371-2.247c1.846,0.004,3.346,1.109,4.471,2.378
+	C43.444,11.564,44.42,13.906,45.243,16.489z"/>
+	
+<path opacity="0.3" d="M46.729,13.177c1.719,5.371,2.336,10.701,2.336,16.3c0,5.604-0.617,10.933-2.34,16.312
+	c-1.031,3.221-2.256,6.139-4.568,8.742c-1.424,1.602-3.32,3.001-5.648,3.001h-0.004c-2.248,0-4.068-1.282-5.48-2.808
+	c-2.281-2.465-3.754-5.834-4.746-8.932c-1.721-5.379-2.34-10.712-2.34-16.316c0-5.604,0.619-10.933,2.34-16.308
+	c0.992-3.103,2.465-6.475,4.75-8.944c1.408-1.522,3.234-2.804,5.473-2.804h0.004c0.004,0,0.004,0,0.008,0
+	c2.334,0.004,4.229,1.404,5.648,3.008C44.475,7.034,45.698,9.952,46.729,13.177z M47.098,29.477c0-4.461-0.492-8.707-1.855-12.988
+	c-0.822-2.583-1.799-4.925-3.654-7.008c-1.125-1.269-2.625-2.374-4.471-2.378C35.325,7.1,33.87,8.131,32.747,9.351
+	c-1.936,2.107-2.926,4.486-3.766,7.126c-1.367,4.286-1.859,8.535-1.859,13c0,4.461,0.492,8.706,1.855,12.984
+	c0.838,2.64,1.824,5.018,3.758,7.126c1.121,1.224,2.574,2.26,4.367,2.264c1.846,0,3.344-1.102,4.479-2.365
+	c1.857-2.084,2.836-4.426,3.658-7.012C46.602,38.191,47.098,33.943,47.098,29.477z"/>
+	
+<path class="color" d="M46.729,13.177c-1.031-3.226-2.254-6.144-4.568-8.747c-1.42-1.604-3.314-3.004-5.648-3.008
+	c-0.004,0-0.004,0-0.008,0H36.5H1.388c0,18.702,0,37.408,0,56.11h35.116h0.004c2.328,0,4.225-1.399,5.648-3.001
+	c2.313-2.604,3.537-5.521,4.568-8.742c1.723-5.379,2.34-10.708,2.34-16.312C49.065,23.878,48.448,18.548,46.729,13.177z"/>
+
+</svg>

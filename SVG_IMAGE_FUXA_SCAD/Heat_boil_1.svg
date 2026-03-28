@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<svg width="87" height="136" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+
+
+ <g class="layer" display="inline">
+  <title>Layer 1</title>
+  <style type="text/css">
+ 
+   <![CDATA[	
+	.coldColor {
+		stop-color:#29B1FF;
+		fill:#29B1FF;
+	}
+	.hotColor {
+		stop-color:#FF0000;
+	}
+	
+      ]]>
+  </style>
+  <defs transform="translate(-241.69 -91.31)">
+   <linearGradient id="svg_25" x1="-0.65" x2="-0.65" y1="1" y2="0">
+    <stop class="coldColor" offset="0">
+        <animate 
+          attributeName="offset"
+          values="0; 0.5; 0"
+          keyTimes="0; 0.5; 1"
+          calcMode="spline"
+          keySplines="0.5 0 0.5 1; 0.5 0 0.5 1"
+          dur="2s"
+          repeatCount="indefinite"
+        />
+	</stop>
+    <stop class="hotColor" offset="1"/>
+   </linearGradient>
+   <path d="m222.15,193.43c8.86,0 16.03,7.19 16.03,16.05l0,28.86c-4.27,0 -8.54,0 -12.82,0l0,-32.07l-146.74,0l-12.81,51.32l-28.58,0l-29.82,-19.9l0,-40.52l50.39,-151.27l122.69,0l0,-32.07c4.27,0 8.54,0 12.81,0l0,32.07l32.06,0l0,-44.9c6.41,0 12.83,0 19.23,0l0,147.53c0,10.63 -8.61,19.25 -19.23,19.25l-32.06,0l0,25.65l28.85,0z" id="svg_28"/>
+   <path d="m238.18,209.48l0,28.86c-4.27,0 -8.54,0 -12.82,0l0,-32.07l-131.41,0l0,-12.84l12.82,0l0,-128.28l-12.82,0l0,-19.25l86.54,0l0,-32.07c4.27,0 8.54,0 12.82,0l0,32.07l0,19.24l-16.03,0l0,128.29l16.03,0l28.84,0c8.86,0 16.03,7.19 16.03,16.05zm-67.3,-16.05l0,-128.28l-6.42,0l0,128.28l6.42,0zm-12.83,0l0,-128.28l-6.41,0l0,128.28l6.41,0zm-12.82,0l0,-128.28l-6.41,0l0,128.28l6.41,0zm-12.82,0l0,-128.28l-6.41,0l0,128.28l6.41,0zm-12.82,0l0,-128.28l-6.41,0l0,128.28l6.41,0z" id="svg_26"/>
+  </defs>
+  <use fill="url(#svg_25)" href="#svg_26" id="svg_34" transform="translate(-241.69 -91.31) matrix(0.603774 0 0 0.603774 184.963 82.9636)"/>
+ </g>
+
+</svg>
