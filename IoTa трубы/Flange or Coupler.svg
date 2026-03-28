@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="13.817mm" height="4.3249mm" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="Flange or Coupler.svg" version="1.1" viewBox="0 0 13.817 4.3249" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1375" x1="237.2" x2="277.71" y1="596.62" y2="596.62" gradientTransform="matrix(-.33564 0 0 .010177 148.34 90.35)" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+   <stop stop-color="#ccc" offset="0"/>
+   <stop stop-color="#3b3b3b" offset=".095871"/>
+   <stop stop-color="#b9b9b9" offset=".26355"/>
+   <stop stop-color="#f8f8f8" offset=".43764"/>
+   <stop stop-color="#fff" offset=".50429"/>
+   <stop stop-color="#f9f9f9" offset=".56686"/>
+   <stop stop-color="#b8b8b8" offset=".73851"/>
+   <stop stop-color="#3b3b3b" offset=".90749"/>
+   <stop stop-color="#ccc" offset="1"/>
+  </linearGradient>
+ </defs>
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="1e-005" fit-margin-left="1e-005" fit-margin-right="0.1" fit-margin-top="1e-005" inkscape:current-layer="layer1" inkscape:cx="143.12703" inkscape:cy="-135.81625" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1744" inkscape:window-maximized="1" inkscape:window-width="3200" inkscape:window-x="-16" inkscape:window-y="2684" inkscape:zoom="2.1176713" pagecolor="#ffffff" showgrid="false"/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-55.056 -95.49)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+  <path d="m55.056 99.815v-4.3248h13.717v4.3248z" fill="url(#linearGradient1375)" inkscape:connector-curvature="0" inkscape:export-xdpi="101.385" inkscape:export-ydpi="101.385" sodipodi:nodetypes="ccccc"/>
+ </g>
+</svg>
