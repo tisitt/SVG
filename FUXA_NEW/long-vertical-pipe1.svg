@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:tb="https://thingsboard.io/svg" width="200" height="400" fill="none" version="1.1" viewBox="0 0 200 400">
+  <defs>
+    <pattern id="baseLiquidd" width="172" height="72" patternTransform="translate(14,8)" patternUnits="userSpaceOnUse">
+      <circle transform="rotate(-90)" cx="-15" cy="21" r="8" fill="url(#paint28_linear_1182_32781-5)"/>
+      <circle transform="rotate(-90)" cx="-15" cy="150" r="8" fill="url(#paint29_linear_1182_32781-1)"/>
+      <circle transform="rotate(-90)" cx="-16" cy="113" r="8" fill="url(#paint30_linear_1182_32781-7)"/>
+      <circle transform="rotate(-90)" cx="-58" cy="34" r="8" fill="url(#paint31_linear_1182_32781-4)"/>
+      <circle transform="rotate(-90)" cx="-58" cy="155" r="8" fill="url(#paint32_linear_1182_32781-3)"/>
+      <circle transform="rotate(-90)" cx="-26" cy="33" r="5" fill="url(#paint33_linear_1182_32781-1)"/>
+      <circle transform="rotate(-90)" cx="-26" cy="162" r="5" fill="url(#paint34_linear_1182_32781-4)"/>
+      <circle transform="rotate(-90)" cx="-37" cy="5" r="5" fill="url(#paint35_linear_1182_32781-6)"/>
+      <circle transform="rotate(-90)" cx="-8" cy="94" r="4" fill="url(#paint36_linear_1182_32781-9)"/>
+      <circle transform="rotate(-90)" cx="-60" cy="72" r="4" fill="url(#paint37_linear_1182_32781-4)"/>
+      <circle transform="rotate(-90)" cx="-37" cy="112" r="5" fill="url(#paint38_linear_1182_32781-2)"/>
+      <circle transform="rotate(-90)" cx="-39" cy="59" r="5" fill="url(#paint39_linear_1182_32781-2)"/>
+      <circle transform="rotate(-90)" cx="-62" cy="115" r="5" fill="url(#paint40_linear_1182_32781-6)"/>
+      <circle transform="rotate(-90)" cx="-42" cy="139" r="5" fill="url(#paint41_linear_1182_32781-4)"/>
+      <circle transform="rotate(-90)" cx="-21" cy="76" r="5" fill="url(#paint42_linear_1182_32781-1)"/>
+      <circle transform="rotate(-90)" cx="-50.5" cy="126.5" r="2.5" fill="url(#paint43_linear_1182_32781-2)"/>
+      <circle transform="rotate(-90)" cx="-46.5" cy="169.5" r="2.5" fill="url(#paint44_linear_1182_32781-8)"/>
+      <circle transform="rotate(-90)" cx="-9.5" cy="57.5" r="2.5" fill="url(#paint45_linear_1182_32781-8)"/>
+      <circle transform="rotate(-90)" cx="-35.5" cy="96.5" r="2.5" fill="url(#paint46_linear_1182_32781-9)"/>
+      <circle transform="rotate(-90)" cx="-23.5" cy="91.5" r="2.5" fill="url(#paint47_linear_1182_32781-2)"/>
+      <circle transform="rotate(-90)" cx="-40.5" cy="22.5" r="2.5" fill="url(#paint48_linear_1182_32781-88)"/>
+      <circle transform="rotate(-90)" cx="-23.5" cy="124.5" r="2.5" fill="url(#paint49_linear_1182_32781-8)"/>
+      <circle transform="rotate(-90)" cx="-47.5" cy="86.5" r="2.5" fill="url(#paint50_linear_1182_32781-6)"/>
+      <circle transform="rotate(-90)" cx="-21.5" cy="51.5" r="2.5" fill="url(#paint51_linear_1182_32781-8)"/>
+      <circle transform="rotate(-90)" cx="-51.5" cy="48.5" r="2.5" fill="url(#paint52_linear_1182_32781-3)"/>
+      <circle transform="rotate(-90)" cx="-64" cy="14" r="4" fill="url(#paint53_linear_1182_32781-83)"/>
+      <circle transform="rotate(-90)" cx="-64" cy="135" r="4" fill="url(#paint54_linear_1182_32781-33)"/>
+      <circle transform="rotate(-90)" cx="-58.5" cy="95.5" r="9.5" fill="url(#paint55_linear_1182_32781-8)"/>
+      <path d="m0 0h172v72h-172z" fill="url(#paint84_linear_1182_32781-8)" stroke-width=".57735"/>
+    </pattern>
+    <pattern id="liquid" width="172" height="72" patternUnits="userSpaceOnUse">
+      <rect width="688" height="72" x="-172" y="0" stroke-width="0" fill="url(#baseLiquidd)"/>
+    </pattern>
+    <linearGradient id="paint28_linear_1182_32781-5" x1="19.316" x2="21" y1="8.2632" y2="23" gradientTransform="translate(-36,6)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint29_linear_1182_32781-1" x1="148.32" x2="150" y1="8.2632" y2="23" gradientTransform="translate(-165,135)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint30_linear_1182_32781-7" x1="111.32" x2="113" y1="9.2632" y2="24" gradientTransform="translate(-129,97)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint31_linear_1182_32781-4" x1="32.316" x2="34" y1="51.263" y2="66" gradientTransform="translate(-92,-24)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint32_linear_1182_32781-3" x1="153.32" x2="155" y1="51.263" y2="66" gradientTransform="translate(-213,97)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint33_linear_1182_32781-1" x1="31.947" x2="33" y1="21.789" y2="31" gradientTransform="translate(-59,7)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint34_linear_1182_32781-4" x1="160.95" x2="162" y1="21.789" y2="31" gradientTransform="translate(-188,136)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint35_linear_1182_32781-6" x1="3.9474" x2="5" y1="32.79" y2="42" gradientTransform="translate(-42,-32)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint36_linear_1182_32781-9" x1="93.158" x2="94" y1="4.6316" y2="12" gradientTransform="translate(-102,86)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint37_linear_1182_32781-4" x1="71.158" x2="72" y1="56.632" y2="64" gradientTransform="translate(-132,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint38_linear_1182_32781-2" x1="110.95" x2="112" y1="32.79" y2="42" gradientTransform="translate(-149,75)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint39_linear_1182_32781-2" x1="57.947" x2="59" y1="34.79" y2="44" gradientTransform="translate(-98,20)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint40_linear_1182_32781-6" x1="113.95" x2="115" y1="57.79" y2="67" gradientTransform="translate(-177,53)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint41_linear_1182_32781-4" x1="137.95" x2="139" y1="37.79" y2="47" gradientTransform="translate(-181,97)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint42_linear_1182_32781-1" x1="74.947" x2="76" y1="16.789" y2="26" gradientTransform="translate(-97,55)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint43_linear_1182_32781-2" x1="125.97" x2="126.5" y1="48.395" y2="53" gradientTransform="translate(-177,76)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint44_linear_1182_32781-8" x1="168.97" x2="169.5" y1="44.395" y2="49" gradientTransform="translate(-216,123)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint45_linear_1182_32781-8" x1="56.974" x2="57.5" y1="7.3947" y2="12" gradientTransform="translate(-67,48)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint46_linear_1182_32781-9" x1="95.974" x2="96.5" y1="33.395" y2="38" gradientTransform="translate(-132,61)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint47_linear_1182_32781-2" x1="90.974" x2="91.5" y1="21.395" y2="26" gradientTransform="translate(-115,68)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint48_linear_1182_32781-88" x1="21.974" x2="22.5" y1="38.395" y2="43" gradientTransform="translate(-63,-18)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint49_linear_1182_32781-8" x1="123.97" x2="124.5" y1="21.395" y2="26" gradientTransform="translate(-148,101)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint50_linear_1182_32781-6" x1="85.974" x2="86.5" y1="45.395" y2="50" gradientTransform="translate(-134,39)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint51_linear_1182_32781-8" x1="50.974" x2="51.5" y1="19.395" y2="24" gradientTransform="translate(-73,30)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint52_linear_1182_32781-3" x1="47.974" x2="48.5" y1="49.395" y2="54" gradientTransform="translate(-100,-3)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint53_linear_1182_32781-83" x1="13.158" x2="14" y1="60.632" y2="68" gradientTransform="translate(-78,-50)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint54_linear_1182_32781-33" x1="134.16" x2="135" y1="60.632" y2="68" gradientTransform="translate(-199,71)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint55_linear_1182_32781-8" x1="93.5" x2="95.5" y1="50.5" y2="68" gradientTransform="translate(-154,37)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4" offset="0"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <!-- Градиент для заливки path внутри pattern (сделан прозрачным, чтобы не создавать видимых границ) -->
+    <linearGradient id="paint84_linear_1182_32781-8" x1="0" x2="172" y1="0" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff" stop-opacity="0" offset="0"/>
+      <stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Поворачиваем всё на 90°, чтобы локальная ось X (направление анимации) стала вертикальной вверх -->
+  <g transform="rotate(90)">
+    <!-- Синий фон -->
+    <rect x="14" y="-136" width="372" height="72" fill="#1ec1f4" stroke-width="0" />
+    <!-- Прямоугольник с паттерном пузырьков, анимированный на смещение по X (вертикаль) -->
+    <rect x="14" y="-136" width="372" height="72" fill="url(#liquid)" stroke-width="0" class="bubble-up" />
+  </g>
+
+  <style>
+    .bubble-up {
+      /* Явно задаём начало координат для трансформации — левый верхний угол прямоугольника */
+      transform-origin: 0 0;
+      animation: moveBubbles 2s linear infinite;
+    }
+    @keyframes moveBubbles {
+      0% { transform: translateX(0); }
+      /* Сдвиг на ширину паттерна (172px) — после поворота это смещение вверх */
+      100% { transform: translateX(172px); }
+    }
+  </style>
+</svg>
